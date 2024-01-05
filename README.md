@@ -1,5 +1,5 @@
-Hi, I'm Luís Augusto Lima de Oliveira
-Currently coursing Computer Science at <a href="https://www.pucminas.br/unidade/coracao-eucaristico/Paginas/como-chegar.aspx">Puc minas</a>
+###Hi, I'm Luís Augusto Lima de Oliveira
+##Currently coursing Computer Science at <a href="https://www.pucminas.br/unidade/coracao-eucaristico/Paginas/como-chegar.aspx">Puc minas</a>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula" />
