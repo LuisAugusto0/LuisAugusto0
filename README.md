@@ -1,4 +1,4 @@
-### Hi there 👋
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula)
 
 <!--
 **LuisAugusto0/LuisAugusto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
