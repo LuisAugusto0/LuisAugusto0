@@ -1,5 +1,9 @@
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact)
-
+<a href="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&theme=draculat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!--
 **LuisAugusto0/LuisAugusto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
