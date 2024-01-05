@@ -1,8 +1,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&theme=draculat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&theme=draculalayout=compact&langs_count=8&card_width=32" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&theme=dracula">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&theme=draculalayout=compact&langs_count=8&card_width=32" />
 </a>
 <!--
 **LuisAugusto0/LuisAugusto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
