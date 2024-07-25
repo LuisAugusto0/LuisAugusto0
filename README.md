@@ -13,10 +13,8 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 #### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![BatchFile](https://img.shields.io/badge/-batchfile-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
