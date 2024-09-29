@@ -17,5 +17,6 @@
 #### Studying in this moment:
 ![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![BatchFile](https://img.shields.io/badge/-batchfile-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-batchfile-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=footer"/>
