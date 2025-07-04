@@ -32,19 +32,19 @@ I'm a 5th semester Computer Science student at PUC Minas with a passion for prob
 
 <div align="center">  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=6497b1&icon_color=6497b1&text_color=b3cde0&bg_color=0d1117">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=005b96&icon_color=005b96&text_color=2f3437&bg_color=ffffff" alt="Luís Augusto github stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=6497b1&icon_color=6497b1&text_color=b3cde0&theme=transparent">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=003d5c&icon_color=003d5c&text_color=1a1a1a" alt="Luís Augusto github stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=6497b1&text_color=b3cde0&bg_color=0d1117&hide=jupyter%20notebook,shaderlab,Dart">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=005b96&text_color=2f3437&bg_color=ffffff&hide=jupyter%20notebook,shaderlab,Dart" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=6497b1&text_color=b3cde0&theme=transparent&hide=jupyter%20notebook,shaderlab,Dart">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=003d5c&text_color=1a1a1a&theme=transparent&hide=jupyter%20notebook,shaderlab,Dart" alt="Top Languages" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=transparent&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=transparent&border=6497b1&stroke=6497b1&ring=6497b1&fire=005b96&currStreakNum=b3cde0&sideNums=b3cde0&currStreakLabel=6497b1&sideLabels=6497b1&dates=b3cde0&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=transparent&border=003d5c&stroke=003d5c&ring=003d5c&fire=001a2e&currStreakNum=1a1a1a&sideNums=1a1a1a&currStreakLabel=003d5c&sideLabels=003d5c&dates=1a1a1a&hide_border=true" alt="GitHub Streak" />
   </picture>
 </div>
 
@@ -53,22 +53,22 @@ I'm a 5th semester Computer Science student at PUC Minas with a passion for prob
 ## Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-005b96?style=for-the-badge&logo=java&labelColor=005b96)&nbsp;
-![C](https://img.shields.io/badge/-C-005b96?style=for-the-badge&logo=c&labelColor=005b96)&nbsp;
-![C++](https://img.shields.io/badge/-C++-005b96?style=for-the-badge&logo=cplusplus&labelColor=005b96)&nbsp;
-![Python](https://img.shields.io/badge/-Python-005b96?style=for-the-badge&logo=python&labelColor=005b96)&nbsp;
-![Verilog](https://img.shields.io/badge/-Verilog-005b96?style=for-the-badge&logo=Verilog&labelColor=005b96)&nbsp;
+![Java](https://img.shields.io/badge/-Java-003d5c?style=for-the-badge&logo=java&labelColor=003d5c)&nbsp;
+![C](https://img.shields.io/badge/-C-003d5c?style=for-the-badge&logo=c&labelColor=003d5c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-003d5c?style=for-the-badge&logo=cplusplus&labelColor=003d5c)&nbsp;
+![Python](https://img.shields.io/badge/-Python-003d5c?style=for-the-badge&logo=python&labelColor=003d5c)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-003d5c?style=for-the-badge&logo=Verilog&labelColor=003d5c)&nbsp;
 
 ### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/-HTML5-005b96?style=for-the-badge&logo=html5&labelColor=005b96)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-005b96?style=for-the-badge&logo=css3&labelColor=005b96)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-005b96?style=for-the-badge&logo=javascript&labelColor=005b96)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-003d5c?style=for-the-badge&logo=html5&labelColor=003d5c)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-003d5c?style=for-the-badge&logo=css3&labelColor=003d5c)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-003d5c?style=for-the-badge&logo=javascript&labelColor=003d5c)&nbsp;
 
 ### 🔧 Frameworks & Tools
-![Flutter](https://img.shields.io/badge/-Flutter-005b96?style=for-the-badge&logo=flutter&labelColor=005b96)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-005b96?style=for-the-badge&logo=unity&labelColor=005b96)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-005b96?style=for-the-badge&logo=arduino&labelColor=005b96)&nbsp;
-![Git](https://img.shields.io/badge/-Git-005b96?style=for-the-badge&logo=git&labelColor=005b96)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-003d5c?style=for-the-badge&logo=flutter&labelColor=003d5c)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-003d5c?style=for-the-badge&logo=unity&labelColor=003d5c)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-003d5c?style=for-the-badge&logo=arduino&labelColor=003d5c)&nbsp;
+![Git](https://img.shields.io/badge/-Git-003d5c?style=for-the-badge&logo=git&labelColor=003d5c)&nbsp;
 
 
 ---
@@ -85,8 +85,8 @@ I'm a 5th semester Computer Science student at PUC Minas with a passion for prob
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-005b96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-augusto-lima-de-oliveira-45aa89277)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-005b96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laloaugusto78@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-003d5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-augusto-lima-de-oliveira-45aa89277)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-003d5c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laloaugusto78@gmail.com)&nbsp;
 
 </div>
 
