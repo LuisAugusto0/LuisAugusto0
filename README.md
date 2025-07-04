@@ -42,7 +42,10 @@ I'm a 5th semester Computer Science student at PUC Minas with a passion for prob
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=transparent&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAugusto0&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
