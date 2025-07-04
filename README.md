@@ -1,34 +1,44 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=header"/>
 
 <div align="center">
-  <img width="150px" src="./PhiBrooch.png">
-  
+
   # Hello, I'm Luís Augusto Lima de Oliveira
   
   ### Computer Science Student
   
   <p>
     <em>"Elapsam semel occasionem non ipse potest Iuppiter reprehendere"</em><br>
-    <strong>"Nem mesmo Júpiter pode recuperar uma oportunidade perdida."</strong><br>
+    <strong>"Not even Jupiter can find a lost opportunity."</strong><br>
     <sub>- Zero Escape Series</sub>
   </p>
+  <img width="150px" src="./PhiBrooch.png">
 </div>
 
 ---
 
 ## About Me
 
-🎓 **Computer Science Undergraduate** at Pontificia Universidade Católica de Minas Gerais (PUC Minas)
+I'm a 5th semester Computer Science student at PUC Minas with a passion for problem-solving and technology. My academic journey has given me a solid foundation in algorithms, data structures, and object-oriented programming, with hands-on experience in C, C++, Java, and hardware integration using Arduino. I'm naturally studious and committed to continuous learning in the ever-evolving tech landscape.
 
-📍 **Minas Gerais, Brazil**
+**Current Focus:** Software development, data analysis, and hardware integration projects.
+
+<!-- <div style="font-size: 0.7em;">
+  <b>When not coding</b>: I enjoy playing games, primarly plataformers and arcade racing games. Sometimes visual novels like Zero Escape.
+</div> -->
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=6497b1&icon_color=6497b1&text_color=b3cde0&bg_color=0d1117" alt="Luís Augusto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=6497b1&text_color=b3cde0&bg_color=0d1117&hide=jupyter%20notebook,shaderlab,Dart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=6497b1&icon_color=6497b1&text_color=b3cde0&bg_color=0d1117">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisAugusto0&show_icons=true&count_private=true&hide_border=true&title_color=005b96&icon_color=005b96&text_color=2f3437&bg_color=ffffff" alt="Luís Augusto github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=6497b1&text_color=b3cde0&bg_color=0d1117&hide=jupyter%20notebook,shaderlab,Dart">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto0&layout=compact&hide_border=true&title_color=005b96&text_color=2f3437&bg_color=ffffff&hide=jupyter%20notebook,shaderlab,Dart" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
@@ -60,15 +70,27 @@
 
 ---
 
-## 🎯 What I'm Up To
+## Current Projects
 
-- Currently working on a Java app called HeatSync to refine a refrigeration notebook base that I helped develop.
-- Working on some personal Windows batch script automations
+- **HeatSync**: Java application for refining a refrigeration notebook database
+- **Automation Scripts**: Personal Windows batch script automations  
+- **Data Analysis**: Python database filtering for FCA method analysis using Lattice Miner
 
-## 📫 Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-005b96?style=for-the-badge&logo=linkedin&logoColor=005b96)](www.linkedin.com/in/luís-augusto-lima-de-oliveira-45aa89277)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-005b96?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:laloaugusto78@gmail.com)&nbsp;
+## Contact
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-005b96?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-augusto-lima-de-oliveira-45aa89277)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-005b96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laloaugusto78@gmail.com)&nbsp;
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Last manually updated: <i>04/07/2025</i></sub>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=footer"/>
