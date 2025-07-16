@@ -6,25 +6,11 @@
   
   ### Computer Science Student
   
-  <p>
-    <em>"Elapsam semel occasionem non ipse potest Iuppiter reprehendere"</em><br>
-    <strong>"Not even Jupiter can find a lost opportunity."</strong><br>
-    <sub>- Zero Escape Series</sub>
-  </p>
-  <img width="150px" src="./PhiBrooch.png">
 </div>
-
----
 
 ## About Me
 
-I'm a 5th semester Computer Science student at PUC Minas with a passion for problem-solving and technology. My academic journey has given me a solid foundation in algorithms, data structures, and object-oriented programming, with hands-on experience in C, C++, Java, and hardware integration using Arduino. I'm naturally studious and committed to continuous learning in the ever-evolving tech landscape.
-
-**Current Focus:** Software development, data analysis, and hardware integration projects.
-
-<!-- <div style="font-size: 0.7em;">
-  <b>When not coding</b>: I enjoy playing games, primarly plataformers and arcade racing games. Sometimes visual novels like Zero Escape.
-</div> -->
+I'm a 5th semester Computer Science student at PUC Minas with a passion for technology. My academic journey has given me a solid foundation in algorithms, data structures, and object-oriented programming.
 
 ---
 
@@ -93,7 +79,14 @@ I'm a 5th semester Computer Science student at PUC Minas with a passion for prob
 ---
 
 <div align="center">
-  <sub>Last manually updated: <i>04/07/2025</i></sub>
+  <p>
+    <em>"Elapsam semel occasionem non ipse potest Iuppiter reprehendere"</em><br>
+    <strong>"Not even Jupiter can find a lost opportunity."</strong><br>
+    <sub>- Zero Escape Series</sub>
+  </p>
+  <img width="150px" src="./PhiBrooch.png">
+
+  <sub>Last manually updated: <i>16/07/2025</i></sub>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=footer"/>
